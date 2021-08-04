@@ -30,5 +30,5 @@ void loop()
     Serial.println(tempC);
     digitalWrite(2, LOW);
   }
-  delay(1000); // Delay a little bit to improve simulation performance
+  delay(1000);
 }
